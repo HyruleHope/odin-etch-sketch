@@ -1,0 +1,9 @@
+.tileUnpainted{
+    border: 1px solid black;
+    width: 31px;
+    height: 31px;
+}
+#container{
+    display: flex;
+    flex-wrap: wrap;
+}
